@@ -1,7 +1,7 @@
 
-# wk-Auto-update
+# BPB-Worker-Panel-Auto-update
 
-自动同步 BPB-Worker-Panel 项目的最新 worker.js 文件。
+自动同步 BPB-Worker-Panel 项目的最新稳定发行版 worker.js 文件。
 
 ## 🚀 快速开始（适合 Fork）
 
@@ -73,7 +73,3 @@ GitHub Actions 会每日 00:00（UTC 时间）自动运行：
 - 原项目版权归原作者所有，本项目仅用于自动同步更新，不对原内容进行修改。
 
 ---
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=byJoey/wk-Auto-update&type=Timeline)](https://www.star-history.com/#byJoey/wk-Auto-update&Timeline)
